@@ -10,7 +10,7 @@ That is the message from [Kling AI’s official X account](https://x.com/Kling_a
 
 A new model? A broader creative platform? Another update to the existing lineup?
 
-Or, finally, (Kling 4.0)[https://kling3.io/kling-4-0-guide]?
+Or, finally, [Kling 4.0](https://kling3.io/kling-4-0-guide) ?
 
 For anyone waiting for the next major version, the timing is hard to ignore. Kling 3.0 was announced in February 2026. Several months have passed since then, and in AI video, that can feel like a year.
 
