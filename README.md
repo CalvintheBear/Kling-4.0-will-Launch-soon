@@ -58,7 +58,7 @@ Those answers would tell us much more than the word “Flash.”
 
 My second prediction is that references and continuity will become a bigger part of the story.
 
-A useful way to think about [Kling 4.0](https://kling3.io/kling-4-0) is to imagine the project someone wants to finish with it.
+A useful way to think about [Kling 4.0](https://kling3.io/kling-4) is to imagine the project someone wants to finish with it.
 
 Suppose that project is a short scene in a café. A character enters, notices someone at a table, sits down, and begins a conversation.
 
